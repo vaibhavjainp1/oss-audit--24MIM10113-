@@ -1,11 +1,12 @@
 # oss-audit--24MIM10113-
 Open Source Audit — Git
-Student Details
-Name: Vaibhav Jaim
-Registration Number: (your reg no)
+Student Details:-
+Name: Vaibhav Jain
+Registration Number: (24MIM10113)
 Course: Open Source Software
 Project Title: The Open Source Audit
-Project Overview
+
+Project Overview:
 
 This project is a detailed study of an open-source software system, focusing on its origin, license, working, and impact on the software industry.
 
@@ -13,7 +14,7 @@ For this project, I have chosen Git, a widely used distributed version control s
 
 The project also includes practical implementation of Linux shell scripting to demonstrate command-line skills and system-level understanding.
 
-About Git
+About Git:
 
 Git is a distributed version control system developed by Linus Torvalds in 2005. It helps developers track changes in code, collaborate efficiently, and maintain project history.
 
