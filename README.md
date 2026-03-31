@@ -2,7 +2,7 @@
 Open Source Audit — Git
 Student Details:-
 Name: Vaibhav Jain
-Registration Number: (24MIM10113)
+Registration Number: 24MIM10113
 Course: Open Source Software
 Project Title: The Open Source Audit
 
